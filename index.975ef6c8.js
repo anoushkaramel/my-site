@@ -28766,7 +28766,7 @@ const imageAltText = "flowers always make my day better";
         url: "https://github.com/anoushkaramel/Disability-Toolkit"
     },
     {
-        title: "Hindi Fake News DetectionN",
+        title: "Hindi Fake News Detection",
         description: "Created one of a kind dataset of urls from various hindi fact-checking websites by webscraping then manually annotating if pointing to correct news or not",
         url: "https://drive.google.com/drive/folders/1CsMiNup9A_UDHwMCUISmrzWKbq5oEzrk?usp=sharing"
     },
